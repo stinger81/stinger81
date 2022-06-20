@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stinger81
-- 👀 I’m a Mechinical Engineer with a background in Computer Science. I Know Python and Matlab. I am currnetly learning c/c++
-
+- 👀 I’m a Mechinical Engineer with a background in Computer Science. 
 
 <!---
 stinger81/stinger81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
